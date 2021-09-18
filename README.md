@@ -31,6 +31,12 @@ The dataset consists of 10 numerical and 8 categorical attributes.
 Results:
 
 ![alt text](https://github.com/nasirtrekker/ml-googleanalytics/blob/main/image/pearson_corr.png)
+![alt text](https://github.com/nasirtrekker/ml-googleanalytics/blob/main/image/distribution.png)
+![alt text](https://github.com/nasirtrekker/ml-googleanalytics/blob/main/image/powertransformneddistribution.png)
+![alt text](https://github.com/nasirtrekker/ml-googleanalytics/blob/main/image/outlier.png)
+![alt text](https://github.com/nasirtrekker/ml-googleanalytics/blob/main/image/revenue_indicator.png)
+![alt text](https://github.com/nasirtrekker/ml-googleanalytics/blob/main/image/areaundercurve.png)
+
 
 
 
