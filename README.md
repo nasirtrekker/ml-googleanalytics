@@ -28,6 +28,12 @@ The dataset consists of 10 numerical and 8 categorical attributes.
          - The "Page Value" feature represents the average value for a web page that a user visited before completing an e-commerce transaction. The "Special Day" feature indicates the closeness of the site visiting time to a specific special day (e.g. Mother’s Day, Valentine's Day) in which the sessions are more likely to be finalized with transaction. 
          - The dataset also includes operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.
 
+
+Relevant Papers:
+
+Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018). [Web Link]
+
+----------------------
 Results:
 
 ![alt text](https://github.com/nasirtrekker/ml-googleanalytics/blob/main/image/pearson_corr.png)
@@ -39,9 +45,5 @@ Results:
 
 
 
-
-Relevant Papers:
-
-Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018). [Web Link]
 
 
